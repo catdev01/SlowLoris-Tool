@@ -9,10 +9,4 @@ Uma ferramenta de ataque DDoS do tipo Slowloris para uso educacional e em ambien
 - Conexões lentas para manter servidores ocupados.
 - Configurações personalizáveis para número de threads e timeout.
 - Créditos: `by catx e by srxar` | [Discord](https://discord.gg/k9PPasUz)
-
-## 📦 Como instalar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/catx07-whitehat/SlowLoris-Tool---by-catx-e-srxar.git
-   cd slowloris-tool
-   python3 slowloris-tool.py
+- somente para pc!(lembrando que n roda no cmd pois ele tem a interface)
